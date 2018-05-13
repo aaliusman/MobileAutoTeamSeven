@@ -11,8 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>Alibaba</module>
-        <module>NBC</module>
-        <module>Ebay</module>
+        <module>CNBC</module>
         <module>Homedepot</module>
         <module>Instagram</module>
         <module>Statefarm</module>

@@ -11,6 +11,7 @@ public class TestHomePage extends HomePage {
     public void test01() throws Exception {
         TestLogger.log("app is launched ...");
         clickOnPopUp();
+//        searchItem("tea cup");
         System.out.println("Test Case 1 Passed");
     }
 }

@@ -9,5 +9,6 @@ public class TestHomePage extends HomePage {
     public void Test01(){
         System.out.println("CNBC launched.");
         clickOnHomeBtn();
+        clickOnNews();
     }
 }
