@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Alibaba" />
+        <module name="CNBC" />
+        <module name="Generic" />
+        <module name="HomeDepot" />
+        <module name="Instagram" />
+        <module name="KaiserPermanente" />
+        <module name="Statefarm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ebay" target="1.8" />
+      <module name="MobileAutoTeamSeven" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
