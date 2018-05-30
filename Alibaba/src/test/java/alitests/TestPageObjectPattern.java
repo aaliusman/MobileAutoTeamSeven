@@ -1,4 +1,7 @@
 package alitests;
 
-public class TestPageObjectPattern {
+import base.MobileAPI;
+
+public class TestPageObjectPattern extends MobileAPI {
+
 }

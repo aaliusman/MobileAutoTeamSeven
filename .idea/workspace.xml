@@ -2,22 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3d90d07-fb35-4e31-9916-b3f915b67d4e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Alibaba/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alibaba/screenshots/BaseLine/test01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/screenshots/BaseLine/test01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alibaba/target/classes/alipages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/target/classes/alipages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alibaba/target/test-classes/alitests/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/target/test-classes/alitests/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestPageObjectPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestPageObjectPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/target/Alibaba-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CNBC/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/CNBC/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CNBC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNBC/screenshots/BaseLine/Test01.png" beforeDir="false" afterPath="$PROJECT_DIR$/CNBC/screenshots/BaseLine/Test01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNBC/src/main/java/cnbcPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNBC/src/main/java/cnbcPages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNBC/target/classes/cnbcPages/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNBC/target/test-classes/cnbcTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNBC/target/test-classes/cnbctests/TestHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeDepot/target/Homedepot-1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/HomeDepot/target/Homedepot-1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeDepot/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HomeDepot/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instagram/target/Instagram-1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram/target/Instagram-1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instagram/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KaiserPermanente/target/KaiserPermanente-1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/KaiserPermanente/target/KaiserPermanente-1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KaiserPermanente/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/KaiserPermanente/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statefarm/target/Statefarm-1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Statefarm/target/Statefarm-1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statefarm/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Statefarm/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,48 +42,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MobileTeamSeven" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNBC/src/main/java/cnbcPages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNBC/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnbcTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="TestHomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,11 +65,55 @@
       <file leaf-file-name="MobileAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+            <state relative-caret-position="124">
+              <caret line="425" column="15" selection-start-line="425" selection-start-column="15" selection-end-line="425" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#18800#18801#0" expanded="true" />
+                <element signature="e#18847#18848#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AliAppTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alibaba/target/test-classes/AliAppTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="AccessibilityPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/alipages/AccessibilityPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobileAPI.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/pnt/maven/mobile/Generic/1/Generic-1.jar!/base/MobileAPI.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="455" column="33" lean-forward="true" selection-start-line="455" selection-start-column="33" selection-end-line="455" selection-end-column="33" />
+              <folding>
+                <element signature="e#17316#17317#0" expanded="true" />
+                <element signature="e#17362#17363#0" expanded="true" />
+                <element signature="e#18025#18026#0" expanded="true" />
+                <element signature="e#18071#18072#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AliAppTestRunner.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Alibaba/src/test/resources/AliAppTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -108,6 +130,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>text</find>
+      <find>text(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Alibaba/pom.xml" />
         <option value="$PROJECT_DIR$/Alibaba/src/main/java/alipages/ClickOnNodeProvider.java" />
         <option value="$PROJECT_DIR$/Alibaba/src/main/java/alipages/AccessiblityPage.java" />
@@ -128,12 +150,15 @@
         <option value="$PROJECT_DIR$/NBC/src/test/resources/cnbcTestRunner.xml" />
         <option value="$PROJECT_DIR$/NBC/src/main/java/cnbcPages/HomePage.java" />
         <option value="$PROJECT_DIR$/NBC/src/test/java/cnbctests/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java" />
         <option value="$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java" />
         <option value="$PROJECT_DIR$/CNBC/src/main/java/cnbcPages/HomePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/CNBC/pom.xml" />
+        <option value="$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestPageObjectPattern.java" />
+        <option value="$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java" />
       </list>
     </option>
   </component>
@@ -169,6 +194,15 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CNBC" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CNBC" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -190,15 +224,6 @@
           <item name="MobileTeamSeven" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CNBC" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CNBC" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
       </expand>
       <select />
     </treeState>
@@ -209,10 +234,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="5" />
-    <option name="width" value="1655" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1935" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,86 +245,107 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cnbcPages" type="462c0819:PsiDirectoryNode" />
+              <item name="alipages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cnbctests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alitests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileTeamSeven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CNBC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CNBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -308,17 +354,17 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MobileAutoTeamSeven\NBC\src\test" />
+      <recent name="E:\MobileAutoTeamSeven\NBC\src\resources" />
+      <recent name="E:\MobileAutoTeamSeven\Alibaba\src\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\MobileAutoTeamSeven\NBC\src\app" />
       <recent name="E:\MobileAutoTeamSeven\NBC" />
       <recent name="E:\MobileAutoTeamSeven\Alibaba\src\app" />
       <recent name="E:\MobileAutoTeamSeven\Alibaba" />
       <recent name="E:\MobileAutoTeamSeven\Generic" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\MobileAutoTeamSeven\NBC\src\test" />
-      <recent name="E:\MobileAutoTeamSeven\NBC\src\resources" />
-      <recent name="E:\MobileAutoTeamSeven\Alibaba\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -358,21 +404,21 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Alibaba/src/test/resources/AliAppTestRunner.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
     </configuration>
@@ -381,44 +427,21 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="E:/MobileAutoTeamSeven/NBC/src/test/resources/cnbcTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CNBC" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/NBC/src/test/resources/cnbcTestRunner.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
     </configuration>
@@ -446,14 +469,12 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" />
-      <item itemvalue="TestNG.E:/MobileAutoTeamSeven/NBC/src/test/resources/cnbcTestRunner.xml" />
       <item itemvalue="TestNG.E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" />
         <item itemvalue="TestNG.E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" />
-        <item itemvalue="TestNG.E:/MobileAutoTeamSeven/NBC/src/test/resources/cnbcTestRunner.xml" />
+        <item itemvalue="TestNG.E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -472,47 +493,53 @@
       <workItem from="1526157594814" duration="1844000" />
       <workItem from="1526160832848" duration="9497000" />
       <workItem from="1526183777795" duration="760000" />
-      <workItem from="1526184591725" duration="4303000" />
+      <workItem from="1526184591725" duration="5085000" />
+      <workItem from="1526242873561" duration="598000" />
+      <workItem from="1526326461132" duration="252000" />
+      <workItem from="1526747407955" duration="2494000" />
+      <workItem from="1526996436666" duration="358000" />
+      <workItem from="1527269310343" duration="609000" />
+      <workItem from="1527339874744" duration="9545000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.13 at 08h 29m 26s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.13 at 08h 35m 48s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.13 at 08h 47m 53s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.13 at 08h 49m 26s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.13 at 08h 52m 41s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.13 at 09h 05m 14s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.13 at 09h 10m 24s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.13 at 09h 22m 24s.xml">
-      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.13 at 09h 23m 24s.xml">
       <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.13 at 09h 29m 24s.xml">
       <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.13 at 09h 35m 28s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.13 at 09h 36m 36s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.19 at 12h 31m 19s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.19 at 12h 37m 27s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.19 at 13h 26m 12s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.19 at 13h 52m 47s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_CNBC_src_test_resources_cnbcTestRunner_xml - 2018.05.26 at 09h 35m 59s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/CNBC/src/test/resources/cnbcTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__MobileAutoTeamSeven_Alibaba_src_test_resources_AliAppTestRunner_xml - 2018.05.26 at 09h 56m 29s.xml">
+      <configuration name="E:/MobileAutoTeamSeven/Alibaba/src/test/resources/AliAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19773000" />
+    <option name="totallyTimeSpent" value="34411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-6" y="0" width="1548" height="830" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -521,37 +548,37 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.1438802" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.11491936" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34322035" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3013294" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15044248" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1842448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.875" visible="true" weight="0.19489247" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.19645494" />
+      <window_info id="Learn" order="2" sideWeight="0.49779737" weight="0.32997313" />
+      <window_info id="Structure" order="1" sideWeight="0.125" side_tool="true" visible="true" weight="0.19489247" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.30837005" side_tool="true" weight="0.19489247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21289062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -570,7 +597,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.20442708" />
       <window_info id="Favorites" order="7" side_tool="true" />
@@ -583,23 +610,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NBC/src/test/java/cnbctests/TestHomePage.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="106" column="17" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#18800#18801#0" expanded="true" />
+            <element signature="e#18847#18848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -623,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,11 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,6 +658,8 @@
           <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#18800#18801#0" expanded="true" />
+            <element signature="e#18847#18848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -691,9 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -739,6 +748,8 @@
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#18800#18801#0" expanded="true" />
+            <element signature="e#18847#18848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -808,27 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestPageObjectPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/resources/AliAppTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Alibaba/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -840,76 +830,121 @@
     <entry file="file://$PROJECT_DIR$/NBC/src/test/resources/cnbcTestRunner.xml" />
     <entry file="file://$PROJECT_DIR$/NBC/src/test/java/cnbctests/TestHomePage.java" />
     <entry file="file://$PROJECT_DIR$/NBC/src/main/java/cnbcPages/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="238">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNBC/src/main/java/cnbcPages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNBC/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestPageObjectPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/alipages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/alipages/AccessibilityPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/alitests/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pnt/maven/mobile/Generic/1/Generic-1.jar!/base/MobileAPI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="455" column="33" lean-forward="true" selection-start-line="455" selection-start-column="33" selection-end-line="455" selection-end-column="33" />
+          <folding>
+            <element signature="e#17316#17317#0" expanded="true" />
+            <element signature="e#17362#17363#0" expanded="true" />
+            <element signature="e#18025#18026#0" expanded="true" />
+            <element signature="e#18071#18072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/target/test-classes/AliAppTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+        <state relative-caret-position="124">
+          <caret line="425" column="15" selection-start-line="425" selection-start-column="15" selection-end-line="425" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#18800#18801#0" expanded="true" />
+            <element signature="e#18847#18848#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNBC/src/test/java/cnbctests/TestHomePage.java">
+    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/resources/AliAppTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNBC/src/test/resources/cnbcTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNBC/src/main/java/cnbcPages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNBC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -965,7 +1000,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Statefarm</last-edited>
+          <last-edited>CNBC</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

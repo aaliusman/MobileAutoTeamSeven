@@ -10,10 +10,16 @@ public class HomePage extends MobileAPI {
     @FindBy(id="com.alibaba.aliexpresshd:id/iv_close_poplayer")
     WebElement couponPopUp;
 
+    @FindBy (id = "tcom.alibaba.aliexpresshd:id/search_hint")
+    WebElement search_box;
+
     public void clickOnPopUp() {
         clickOnElement(ad, "com.alibaba.aliexpresshd:id/iv_close_poplayer");
     }
 
+    public void enterSearch(String itemName){
+        enterValueOnElement(ad, );
+    }
     public void searchItem(String itemName){
         enterValueOnElement(ad, "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.widget.TextView", itemName);
     }
